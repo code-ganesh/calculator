@@ -1,1 +1,1 @@
-# simple-calculator
+# simple-calculator which can perform basic calculations
